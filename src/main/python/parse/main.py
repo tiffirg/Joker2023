@@ -2,7 +2,7 @@ import random
 import string
 import html5lib
 
-TAGS = ['section', 'article', 'div', 'span', 'a', 'b', 'i' 'p']
+TAGS = ['section', 'article', 'div', 'span', 'a', 'b', 'i', 'p']
 TEXT_TAGS = ['div', 'span', 'a', 'b', 'i' 'p']
 SYMBOLS = ['<', '>', '&', '"', "'", "\n", "\t", '\x00', '\x01', '😃', '😄', '😁', '👿', '😈']
 MAX_DEPTH = 5
